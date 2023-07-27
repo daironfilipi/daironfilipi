@@ -1,9 +1,9 @@
 ## Programador Jr da Trybe!
 
  <div>
-   <a href="https://github.com/Daironfilipi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daironfilipi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiironfilipi&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/daironfilipi">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daironfilipi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiironfilipi&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
